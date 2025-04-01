@@ -1,0 +1,14 @@
+*.o
+*.so
+*.a
+*.out
+*.log
+*.deb
+build/
+bin/
+obj/
+debian/
+*.swp
+*.swo
+.vscode/
+.idea/
